@@ -14,6 +14,11 @@ const workCards: WorkCard[] = [
     url: "https://promptbenchapp.com/",
   },
   {
+    title: "Product Roadmap 2026",
+    description: "An interactive visual roadmap showing the strategic direction and planned features across different product tracks.\n\nIncludes timeline views, feature phases (Discovery, Design, Delivery), and dependencies between initiatives — designed to communicate product strategy to stakeholders and align teams on priorities.",
+    url: "/product-roadmap.html",
+  },
+  {
     title: "Agile-focused SDLC Map",
     description: "A detailed Agile-focused SDLC map that shows how product management, engineering, design, QA, legal, and AI-specific work actually interlock across discovery, build, release, and maintenance.\n\nIt goes beyond a generic lifecycle diagram by making roles, inputs, outputs, rituals, and edge cases explicit — including AI prompt design, testing, compliance, and failure handling — as they happen in real enterprise product teams.",
     url: "/agile-sdlc.pdf",
